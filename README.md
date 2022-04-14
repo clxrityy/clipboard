@@ -19,4 +19,4 @@ A simple python code that allows you to save and store things from your clipboar
 **{'myname': 'MJ Anglin'}**
 
 ### Huge thanks to <a href="https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg">Tech With Tim</a> for guiding this!
-<img src="https://imgur.com/1d7X6mk.png" width="50" height="30"> <a href="https://www.youtube.com/watch?v=Oz3W-LKfafE">Original video tutorial</a>
+<img src="https://imgur.com/1d7X6mk.png" width="25" height="15"> <a href="https://www.youtube.com/watch?v=Oz3W-LKfafE">Original video tutorial</a>
