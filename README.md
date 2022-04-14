@@ -18,3 +18,4 @@ A simple python code that allows you to save and store things from your clipboar
 `python3 clipboard.py list`
 **{'myname': 'MJ Anglin'}**
 
+### Huge thanks to <a href="https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg">Tech With Tim</a> for guiding this!
