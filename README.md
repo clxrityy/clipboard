@@ -1,5 +1,5 @@
 # Clipboard
-A simple python code that allows you to save and store things from your clipboard under a specified key, load that key at any time, and display a list of things from your clipboard
+A simple python code that allows you to save and store things from your clipboard under a specified key, load that key at any time, and display a list of things from your clipboard.
 
 
 ## Example
