@@ -6,7 +6,7 @@ A simple python code that allows you to save and store things from your clipboar
 `python3 clipboard.py save`
 *Enter a key*
 `myname`
-*Past clipboard*
+*Paste from clipboard*
 `MJ Anglin`
 **Data saved!**
 
